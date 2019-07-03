@@ -62,9 +62,10 @@
 		}
 
 
-		$to      = "contacto@eclipsemex.com", "samuel.mejia@eclipsemex.mx";
-		$subject = "Solicitud de informacion - Servicio-Nvidia";
-		$message = "Una persona solicita informacion acerca de Servicio-Nvidia, a continuacion se muestran sus datos:\n\n".
+		//$to      = "contacto@eclipsemex.com", "samuel.mejia@eclipsemex.mx";
+		$to      = "samuel.mejia@eclipsemex.mx"
+		$subject = "Solicitud de informacion - Nvidia1";
+		$message = "Una persona solicita informacion acerca de Nvidia1, a continuacion se muestran sus datos:\n\n".
 		            "Nombre: " . $nombre . "\n".
 		            "Apellidos: " . $apellidos . "\n".
 		            "Empresa: " . $empresa . "\n".
