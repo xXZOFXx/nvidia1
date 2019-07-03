@@ -477,9 +477,7 @@
                     <h5 class="card-title"> <b>RENDERING FUERA DE LINEA</b> </h5>
                     <p class="card-text">Aceler el procesamiento fuera de linea con el poder de la aceleracion de la GPU conectado una o más estaciones de trabajo al servidor NVIDIA RTX.</p>
                   </div>
-                  <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
-                  </div>
+                  
                 </div>
                 <div class="card">
                   <div class="text-center">
@@ -489,7 +487,7 @@
                     <h5 class="card-title"> <b>RENDERING ACELERADO EN TU ESCRITORIO</b> </h5>
                     <p class="card-text">Mejore el rendimiento  y la interactividad de la estación de trabajo local conectándose al NVIDA RTX y aprovechando hasta 10 GPU.</p>
                   </div>
-                
+
                 </div>
                 <div class="card">
                   <div class="text-center">
