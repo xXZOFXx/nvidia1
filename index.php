@@ -49,10 +49,19 @@
 
 
 
+                <div class="col-md-6 align-items-center">
+
+
+                      <h1 class="render">AUMENTA LA VELOCIDAD DE REPRODUCCIÓN Y MUESTRA TODO TU POTENCIAL CON RXT SERVER</h1>
 
 
 
-                <div class="col-sm-4" style="padding-top: 49px; padding-bottom:49px;">
+                  </div>
+
+
+
+
+                <div class="col-sm-6 espacio ">
 
                   <div class="">
 
@@ -409,74 +418,94 @@
 
 
 
-                <div class="col-md-8 align-items-center">
 
 
-                    <div class="col">
-                      <h1 class="render" style="color:white; font-size:70px; text-align:center; text-shadow: 5px 5px 5px black;padding-bottom: 50%;padding-top: 25%;">RENDERIZA EN TIEMPO RECORD CON NVIDIA QUADRO RTX</h1>
+
+
+
+
+
+
+              </div>
+
+
+            </div>
+
+
+          <div class="contenido-cartas">
+
+      <div class="card-deck">
+                <div class="card">
+                  <img class="card-img-top" src="images/sube.svg"  width="150" height="150" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">INCREMENTA LA PRDUCTIVIDAD</h5>
+                    <p class="card-text">Obtenga una representación 5 veces nas rápida por 1U frente a una solución  solo para cpu y amplíe hasta 4U para maximizar la velocidad de renderización en 20X.</p>
+
+                  </div>
+                </div>
+                <div class="card">
+                  <img class="card-img-top" src="images/velocidad.svg"  width="150" height="150" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">MEJORA LA UTILIZACIÓN</h5>
+                    <p class="card-text">Consolide múltiples estaciones de trabajo físicas en un servidor con múltiples estaciones de trabajo virtuales y suspenda los nodos de las estaciones de trabajo según sea necesario.</p>
+
+                  </div>
+                </div>
+                <div class="card">
+                  <img class="card-img-top" src="images/dinero.svg"   width="150" height="150" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">REDUZCA COSTOS </h5>
+                    <p class="card-text">Compre un servidor virtualizado en lugar de múltiples servidores solo para CPU, lo que ahorra dinero y es más facil de administrar.</p>
+
+                  </div>
+                  </div>
+        </div>
+
+          </div>
+
+
+            <div class="row" style="background:black;">
+
+
+
+              <div class="card-deck">
+                <div class="card">
+                  <div class="text-center">
+                    <img src="images/i1.jpg" class="rounded" alt="...">
                     </div>
-
-
-
+                  <div class="card-body">
+                    <h5 class="card-title"> <b>RENDERING FUERA DE LINEA</b> </h5>
+                    <p class="card-text">Aceler el procesamiento fuera de linea con el poder de la aceleracion de la GPU conectado una o más estaciones de trabajo al servidor NVIDIA RTX.</p>
                   </div>
-
-
-
-
-
-
-
-              </div>
-
-
-            </div>
-
-
-
-            <div class="row contenido">
-
-              <div class="col-md-3">
-                <div class=" contenedor">
-                  <div class=" card carta">
-                    <img src="assets/i-1.png" alt="">
-                    <h4>aplicaciones Móviles</h4>
-                    <a href="#" style="margin-top: 4rem;">Leer más</a>
+                  <div class="card-footer">
+                    <small class="text-muted">Last updated 3 mins ago</small>
                   </div>
                 </div>
-              </div>
-
-              <div class="col-md-3">
-                <div class=" contenedor">
-                  <div class=" card carta">
-                    <img src="assets/i-2.png" alt="">
-                    <h4>aplicaciones Móviles</h4>
-                    <a href="#" style="margin-top: 4rem;">Leer más</a>
+                <div class="card">
+                  <div class="text-center">
+                    <img src="images/i2.jpg" class="rounded" alt="...">
+                    </div>
+                  <div class="card-body">
+                    <h5 class="card-title"> <b>RENDERING ACELERADO EN TU ESCRITORIO</b> </h5>
+                    <p class="card-text">Mejore el rendimiento  y la interactividad de la estación de trabajo local conectándose al NVIDA RTX y aprovechando hasta 10 GPU.</p>
                   </div>
+                
                 </div>
-              </div>
-
-              <div class="col-md-3">
-                <div class=" contenedor">
-                  <div class=" card carta">
-                    <img src="assets/i-3.png" alt="">
-                    <h4>aplicaciones Móviles</h4>
-                    <a href="#" style="margin-top: 4rem;">Leer más</a>
+                <div class="card">
+                  <div class="text-center">
+                    <img src="images/i3.jpg" class="rounded" alt="...">
+                    </div>
+                  <div class="card-body">
+                    <h5 class="card-title"> <b>VIRTUALIZACIÓN DE ESTACIONES DE TRABAJO </b> </h5>
+                    <p class="card-text">Aprovisione múltiples estaciones de trabajo virtuales o una combinación de estaciones de trabajo virtuales y nodos de procesamiento desde un único servidor NVIDIA RTX co Quadro vDWS</p>
                   </div>
-                </div>
-              </div>
 
-              <div class="col-md-3">
-                <div class=" contenedor">
-                  <div class=" card carta">
-                    <img src="assets/i-3.png" alt="">
-                    <h4>aplicaciones Móviles</h4>
-                    <a href="#" style="margin-top: 4rem;">Leer más</a>
-                  </div>
                 </div>
               </div>
 
 
             </div>
+
 
 
 
