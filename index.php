@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-    <title>Nvidia</title>
+    <title>Nvidia Server</title>
 
 
     
@@ -562,7 +562,7 @@
             alert("Llenar los campos requeridos");
             console.log("Llenar los campos requeridos");
         } else{
-          /*$.ajax({
+          $.ajax({
               url: 'ingresarDatos.php',
               type: 'POST',
               data: {
@@ -580,7 +580,7 @@
                 alert('Registro enviado.');
                 window.location.replace("https://www.eclipsemex.com");
               }
-          });*/
+          });
         }
     }
   </script>
